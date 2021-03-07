@@ -1,0 +1,3 @@
+﻿  shadows.cpp
+\\vmware-host\shared folders\desktop\ser431\quiz7\shadows_reflections_animation\shadows_reflections_animation\core.h(248): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+msvcprtd.lib(MSVCP140D.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

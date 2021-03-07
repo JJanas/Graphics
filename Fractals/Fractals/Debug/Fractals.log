@@ -1,0 +1,8 @@
+﻿  Tree.cpp
+\\vmware-host\shared folders\desktop\ser431\quiz8\fractals\fractals\common.h(367): warning C4018: '<': signed/unsigned mismatch
+\\vmware-host\shared folders\desktop\ser431\quiz8\fractals\fractals\common.h(394): warning C4018: '<': signed/unsigned mismatch
+\\vmware-host\shared folders\desktop\ser431\quiz8\fractals\fractals\tree.cpp(21): warning C4101: 'savedseed': unreferenced local variable
+\\vmware-host\shared folders\desktop\ser431\quiz8\fractals\fractals\tree.cpp(58): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+LINK : warning LNK4076: invalid incremental status file '\\vmware-host\Shared Folders\Desktop\SER431\Quiz8\Fractals\Debug\Fractals.ilk' (which will be deleted); linking nonincrementally
+  Fractals.vcxproj -> \\vmware-host\Shared Folders\Desktop\SER431\Quiz8\Fractals\Debug\Fractals.exe
+  Fractals.vcxproj -> \\vmware-host\Shared Folders\Desktop\SER431\Quiz8\Fractals\Debug\Fractals.pdb (Partial PDB)

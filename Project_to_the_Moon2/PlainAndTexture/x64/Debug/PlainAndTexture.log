@@ -1,0 +1,21 @@
+﻿  Skybox.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\glut.h(35): note: see previous definition of 'CALLBACK'
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\skybox.cpp(138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\glut.h(35): note: see previous definition of 'CALLBACK'
+  Lane.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\glut.h(35): note: see previous definition of 'CALLBACK'
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\lane.cpp(175): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FlatPlain.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\glut.h(35): note: see previous definition of 'CALLBACK'
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\flatplain.cpp(98): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Box.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\glut.h(35): note: see previous definition of 'CALLBACK'
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\box.cpp(140): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+msvcprtd.lib(MSVCP140D.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
