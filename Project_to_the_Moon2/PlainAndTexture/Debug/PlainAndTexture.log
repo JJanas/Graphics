@@ -1,0 +1,7 @@
+﻿  ToTheMoon.cpp
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\globals.h(94): warning C4018: '<': signed/unsigned mismatch
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\globals.h(109): warning C4018: '<': signed/unsigned mismatch
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\tothemoon.cpp(70): warning C4101: 'savedseed': unreferenced local variable
+\\vmware-host\shared folders\desktop\ser431\project_to_the_moon2\plainandtexture\tothemoon.cpp(107): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  PlainAndTexture.vcxproj -> \\vmware-host\Shared Folders\Desktop\SER431\Project_to_the_Moon2\Debug\PlainAndTexture.exe
+  PlainAndTexture.vcxproj -> \\vmware-host\Shared Folders\Desktop\SER431\Project_to_the_Moon2\Debug\PlainAndTexture.pdb (Partial PDB)
